@@ -15,7 +15,7 @@
     <img align="right" width="350" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming and sharing knowledge<br />
     ❤️ &emsp; Love writing code and learning new features<br />
-    📧 &emsp; Reach me anytime: gurupujari57@hotmail.com<br />
+    📧 &emsp; Reach me anytime: gurupujari57@gmail.com<br />
 </p>
 
 <h3 align="left">Connect with me:</h3>
